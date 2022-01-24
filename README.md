@@ -1,2 +1,2 @@
 # logbook
-practice vb.NET system
+this program is part of my learning of Visual Basic .NET
