@@ -1,0 +1,17 @@
+C:\Users\Alexis\source\repos\LogbookVB.NET\bin\Release\net6.0-windows\LogbookVB.NET.exe
+C:\Users\Alexis\source\repos\LogbookVB.NET\bin\Release\net6.0-windows\LogbookVB.NET.deps.json
+C:\Users\Alexis\source\repos\LogbookVB.NET\bin\Release\net6.0-windows\LogbookVB.NET.runtimeconfig.json
+C:\Users\Alexis\source\repos\LogbookVB.NET\bin\Release\net6.0-windows\LogbookVB.NET.dll
+C:\Users\Alexis\source\repos\LogbookVB.NET\bin\Release\net6.0-windows\ref\LogbookVB.NET.dll
+C:\Users\Alexis\source\repos\LogbookVB.NET\bin\Release\net6.0-windows\LogbookVB.NET.pdb
+C:\Users\Alexis\source\repos\LogbookVB.NET\obj\Release\net6.0-windows\LogbookVB.NET.vbproj.AssemblyReference.cache
+C:\Users\Alexis\source\repos\LogbookVB.NET\obj\Release\net6.0-windows\LogbookVB.NET.Form1.resources
+C:\Users\Alexis\source\repos\LogbookVB.NET\obj\Release\net6.0-windows\LogbookVB.NET.vbproj.GenerateResource.cache
+C:\Users\Alexis\source\repos\LogbookVB.NET\obj\Release\net6.0-windows\LogbookVB.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexis\source\repos\LogbookVB.NET\obj\Release\net6.0-windows\LogbookVB.NET.AssemblyInfoInputs.cache
+C:\Users\Alexis\source\repos\LogbookVB.NET\obj\Release\net6.0-windows\LogbookVB.NET.AssemblyInfo.vb
+C:\Users\Alexis\source\repos\LogbookVB.NET\obj\Release\net6.0-windows\LogbookVB.NET.vbproj.CoreCompileInputs.cache
+C:\Users\Alexis\source\repos\LogbookVB.NET\obj\Release\net6.0-windows\LogbookVB.NET.dll
+C:\Users\Alexis\source\repos\LogbookVB.NET\obj\Release\net6.0-windows\ref\LogbookVB.NET.dll
+C:\Users\Alexis\source\repos\LogbookVB.NET\obj\Release\net6.0-windows\LogbookVB.NET.pdb
+C:\Users\Alexis\source\repos\LogbookVB.NET\obj\Release\net6.0-windows\LogbookVB.NET.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\Alexis\Documents\New folder\LogbookVB.NET.exe
+C:\Users\Alexis\Documents\New folder\LogbookVB.NET.dll
+C:\Users\Alexis\Documents\New folder\LogbookVB.NET.deps.json
+C:\Users\Alexis\Documents\New folder\LogbookVB.NET.runtimeconfig.json
+C:\Users\Alexis\Documents\New folder\LogbookVB.NET.pdb
